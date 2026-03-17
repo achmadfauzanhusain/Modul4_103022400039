@@ -1,0 +1,15 @@
+C:\Users\LENOVO\source\repos\Modul4_103022400039\Modul4_103022400039\bin\Debug\net10.0\Modul4_103022400039.exe
+C:\Users\LENOVO\source\repos\Modul4_103022400039\Modul4_103022400039\bin\Debug\net10.0\Modul4_103022400039.deps.json
+C:\Users\LENOVO\source\repos\Modul4_103022400039\Modul4_103022400039\bin\Debug\net10.0\Modul4_103022400039.runtimeconfig.json
+C:\Users\LENOVO\source\repos\Modul4_103022400039\Modul4_103022400039\bin\Debug\net10.0\Modul4_103022400039.dll
+C:\Users\LENOVO\source\repos\Modul4_103022400039\Modul4_103022400039\bin\Debug\net10.0\Modul4_103022400039.pdb
+C:\Users\LENOVO\source\repos\Modul4_103022400039\Modul4_103022400039\obj\Debug\net10.0\Modul4_103022400039.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\Modul4_103022400039\Modul4_103022400039\obj\Debug\net10.0\Modul4_103022400039.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Modul4_103022400039\Modul4_103022400039\obj\Debug\net10.0\Modul4_103022400039.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\Modul4_103022400039\Modul4_103022400039\obj\Debug\net10.0\Modul4_103022400039.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Modul4_103022400039\Modul4_103022400039\obj\Debug\net10.0\Modul4_103022400039.sourcelink.json
+C:\Users\LENOVO\source\repos\Modul4_103022400039\Modul4_103022400039\obj\Debug\net10.0\Modul4_103022400039.dll
+C:\Users\LENOVO\source\repos\Modul4_103022400039\Modul4_103022400039\obj\Debug\net10.0\refint\Modul4_103022400039.dll
+C:\Users\LENOVO\source\repos\Modul4_103022400039\Modul4_103022400039\obj\Debug\net10.0\Modul4_103022400039.pdb
+C:\Users\LENOVO\source\repos\Modul4_103022400039\Modul4_103022400039\obj\Debug\net10.0\Modul4_103022400039.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\Modul4_103022400039\Modul4_103022400039\obj\Debug\net10.0\ref\Modul4_103022400039.dll
