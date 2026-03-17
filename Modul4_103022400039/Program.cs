@@ -1,17 +1,18 @@
-﻿using Modul4_103022400039;
-using System;
+﻿using System;
 
 class Program
 {
     static void Main(string[] args)
     {
-        KodePaket kp = new KodePaket();
+        MesinKopi mesin = new MesinKopi();
 
-        Console.Write("Masukkan nama paket: ");
-        string nama = Console.ReadLine();
+        mesin.PowerOn();          
+        mesin.StartBrew();         
+        mesin.FinishBrew();        
+        mesin.StartMaintenance();  
+        mesin.FinishMaintenance();
+        mesin.PowerOff();         
 
-        string kode = kp.getKodePaket(nama);
-
-        Console.WriteLine("Kode Paket: " + kode);
+        mesin.StartBrew();
     }
 }
